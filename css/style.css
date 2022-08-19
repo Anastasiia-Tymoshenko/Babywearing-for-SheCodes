@@ -1,0 +1,40 @@
+body {
+  background: linear-gradient(
+    68.6deg,
+    rgb(252, 165, 241) 1.8%,
+    rgb(181, 255, 255) 100.5%
+  );
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: blueviolet;
+  text-align: center;
+  margin: 20px 0;
+}
+a {
+  display: block;
+  margin: 20px 0;
+  text-align: center;
+}
+
+p,
+ul {
+  font-size: 17px;
+  margin: 0 30px;
+  text-indent: 3ch;
+}
+
+.cont-page-img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
+
+.home-page-img {
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+}
